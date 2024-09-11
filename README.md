@@ -55,8 +55,10 @@ void loop()
 ![image](https://github.com/user-attachments/assets/46f28172-f3e7-4613-82e4-4a970e22f05d)
 ## OUTPUT:
 ## ON:
+
 ![image](https://github.com/user-attachments/assets/b1dde80b-e7e6-4287-a2e3-77a0186f82be)
 ## OFF:
 ![image](https://github.com/user-attachments/assets/c4d340b6-37d7-4933-8d4e-d20065ddce0c)
+
 ## RESULT:
 Thus the relay is controlled using Arduino controller.

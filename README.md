@@ -51,10 +51,8 @@ void loop()
   delay(1000);
 }
 ```
-
 ## CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/46f28172-f3e7-4613-82e4-4a970e22f05d)
-
 ## OUTPUT:
 ## ON:
 ![image](https://github.com/user-attachments/assets/3bbb392a-9cb8-438f-92db-51f1a9fe6465)

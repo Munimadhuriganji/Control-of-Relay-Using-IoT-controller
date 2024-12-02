@@ -1,6 +1,6 @@
 # NAME:GANJI MUNI MADHURI
 # REGISTER NUMBER:212223230060
-# EX02 Control-of-Relay-Using-IoT-controller
+# EX02 Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
